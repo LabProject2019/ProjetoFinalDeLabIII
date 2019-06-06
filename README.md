@@ -30,7 +30,7 @@ A seguir seguem algumas imagens das telas do projeto>
 
 3 - Tela de adicionar um game ao banco de dados.
 
-4 - Tela de buscar a camisa por algum atributo ou apenas buscar a camisa sem especificar.
+4 - Tela de buscar a game por algum atributo ou apenas buscar a camisa sem especificar.
 
 
 
