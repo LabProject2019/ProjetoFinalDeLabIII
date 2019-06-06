@@ -22,7 +22,7 @@ A seguir seguem algumas imagens das telas do projeto>
 
 1 - Tela de adicionar um game ao banco de dados.
 
-![addCamiseta](https://user-images.githubusercontent.com/48139250/59060064-9e029a80-8876-11e9-82d5-fc88c38138b1.png)
+![addCamiseta](https://user-images.githubusercontent.com/48139250/59060311-3436c080-8877-11e9-9559-59721d972272.png)
 
 2 - Tela de buscar a camisa por algum atributo ou apenas buscar a camisa sem especificar.
 
