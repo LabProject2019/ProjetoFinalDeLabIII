@@ -20,7 +20,7 @@ Abaixo segue o diagrama referente ao projeto:
 
 A seguir seguem algumas imagens das telas do projeto>
 
-1 - Tela de adicionar um game ao banco de dados.
+1 - Tela de adicionar uma camiseta ao banco de dados.
 
 ![addCamiseta](https://user-images.githubusercontent.com/48139250/59060311-3436c080-8877-11e9-9559-59721d972272.png)
 
@@ -28,7 +28,9 @@ A seguir seguem algumas imagens das telas do projeto>
 
 ![buscaCamisetas](https://user-images.githubusercontent.com/48139250/59060136-d3a78380-8876-11e9-839f-21b853bc06d1.png)
 
-3 - Tela de adicionar uma camiseta ao banco de dados.
+3 - Tela de adicionar um game ao banco de dados.
+
+4 - Tela de buscar a camisa por algum atributo ou apenas buscar a camisa sem especificar.
 
 
 
