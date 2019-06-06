@@ -17,3 +17,9 @@ Abaixo segue o diagrama referente ao projeto:
 
 
 
+
+A seguir seguem algumas imagens das telas do projeto>
+
+1 - Tela de adicionar um game ao banco de dados.
+
+
