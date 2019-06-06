@@ -30,7 +30,11 @@ A seguir seguem algumas imagens das telas do projeto>
 
 3 - Tela de adicionar um game ao banco de dados.
 
+![addJogo](https://user-images.githubusercontent.com/48139250/59060471-91327680-8877-11e9-9215-79785ed09bf9.png)
+
 4 - Tela de buscar a game por algum atributo ou apenas buscar a camisa sem especificar.
+
+
 
 
 
