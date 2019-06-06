@@ -9,6 +9,7 @@ O presente projeto tem como finalidade a construção de um sistema de registro 
 Os produtos são básicamente de dois tipos: camiseta (ou camisa, como preferir chamar) e os jogos de diversas plataformas. Os produtos apresentam um código, tamanho (sendo PP,P,M,G,GG), uma cor (preto,branco,etc) e uma estampa, como já dito podendo ser de um desenho, série, anime, dentre outos. Já os jogos possuem um código, plataforma (PC,PS4,X-BOX...), um genêro (aventura, ação, fps,...).
 
 Abaixo segue o diagrama referente ao projeto:
+
 ![DiagramaDeClasseSemUsuario](https://user-images.githubusercontent.com/48139250/58805725-050c1f00-85eb-11e9-8839-225a29c3c2f6.png)
 
 
