@@ -22,7 +22,7 @@ A seguir seguem algumas imagens das telas do projeto:
 
 1 - Tela de adicionar uma camiseta ao banco de dados.
 
-![addCamiseta](https://user-images.githubusercontent.com/48139250/59060311-3436c080-8877-11e9-9559-59721d972272.png)
+![IMG-20190607-WA0000](https://user-images.githubusercontent.com/48139250/59098564-04c79880-88f7-11e9-8099-0d9d4eaba0df.jpg)
 
 2 - Tela de buscar a camisa por algum atributo ou apenas buscar a camisa sem especificar.
 
