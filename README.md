@@ -10,6 +10,12 @@ Os produtos são básicamente de dois tipos: camiseta (ou camisa, como preferir 
 
 ![Foto](https://user-images.githubusercontent.com/48139250/59059734-13ba3680-8876-11e9-8899-c278b2789a48.png)
 
+A cima foram apresentados:
+
+Model - representado no diagrama de classes.
+Controller - 
+View - Representado nos prints do programa.
+
 Abaixo segue o diagrama referente ao projeto:
 
 
