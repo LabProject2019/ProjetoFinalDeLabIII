@@ -14,7 +14,7 @@ A cima foram apresentados:
 
 Model - representado no diagrama de classes.
 
-Controller - 
+Controller - onde se encontram os 'caminhos de acesso' ao view.
 
 View - Representado nos prints do programa.
 
