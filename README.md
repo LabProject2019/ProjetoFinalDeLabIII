@@ -21,8 +21,7 @@ View - Representado nos prints do programa.
 Abaixo segue o diagrama referente ao projeto:
 
 
-![DiagramaDeClasseSemUsuario](https://user-images.githubusercontent.com/48139250/58805725-050c1f00-85eb-11e9-8839-225a29c3c2f6.png)
-
+![DiagramaDeClasseSemUsuario](https://user-images.githubusercontent.com/48139250/59126471-90fbaf00-893b-11e9-826a-5dc0864175aa.png)
 
 
 
