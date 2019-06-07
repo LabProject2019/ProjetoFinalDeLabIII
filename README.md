@@ -14,7 +14,61 @@ A cima foram apresentados:
 
 Model - representado no diagrama de classes.
 
-Controller - onde se encontram os 'caminhos de acesso' ao view.
+Controller - onde se encontram os 'caminhos de acesso' ao view. Onde exitem dentro do controller:
+
+
+Game:
+adicionarGame()
+
+buscarAllGames();
+
+buscarGame();
+
+buscarAllJogosNome();
+
+buscarGameGenNome();
+
+buscarGameGenPla();
+
+buscarGameNomePla();
+
+buscarAllGeneros();
+
+buscarGameGenero();
+
+buscarGameNome();
+
+buscarAllPlataformas();
+
+buscarGamePlataforma();
+
+
+Camiseta:
+
+adicionarCamiseta();
+
+buscarAllCamisetas();
+
+buscarCamiseta();
+
+buscarCamTamEst();
+
+buscarCamTamCor();
+
+buscarCamEstCor();
+
+buscarAllTamanhos();
+
+buscarCamisetaTamanho();
+
+buscarAllEstampas();
+
+buscarCamisetaEstampa();
+
+buscarAllCores();
+
+buscarCamisetaCor(); 
+
 
 View - Representado nos prints do programa.
 
