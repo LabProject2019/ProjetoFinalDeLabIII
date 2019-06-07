@@ -13,7 +13,9 @@ Os produtos são básicamente de dois tipos: camiseta (ou camisa, como preferir 
 A cima foram apresentados:
 
 Model - representado no diagrama de classes.
+
 Controller - 
+
 View - Representado nos prints do programa.
 
 Abaixo segue o diagrama referente ao projeto:
